@@ -1,0 +1,18 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+.heading.main {
+    color:white;
+    background-color: grey;
+    font-size: 36px;
+    }
+
+.heading {
+    color:blue;  
+    font-size: 24px;
+    }
+    
+.description {
+    font-size: 30px;
+    }
